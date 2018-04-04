@@ -1,0 +1,10 @@
+[05-Apr-2017 06:00:43 UTC] PHP Fatal error:  Call to a member function move() on array in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 99
+[05-Apr-2017 06:03:46 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\move() in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 99
+[05-Apr-2017 06:06:43 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\move() in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 101
+[05-Apr-2017 06:10:06 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\move() in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 102
+[05-Apr-2017 06:12:26 UTC] PHP Fatal error:  Call to a member function move() on array in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 103
+[05-Apr-2017 06:13:31 UTC] PHP Fatal error:  Call to a member function move() on array in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 103
+[27-Apr-2017 09:10:59 UTC] PHP Parse error:  syntax error, unexpected '=' in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 108
+[27-Apr-2017 09:11:04 UTC] PHP Parse error:  syntax error, unexpected '=' in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 108
+[27-Apr-2017 09:11:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 114
+[27-Apr-2017 09:33:26 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home5/eshoppe4/public_html/imarasoft/rilwan/project/app/Http/Controllers/MailRead.php on line 114

@@ -1,0 +1,1 @@
+[12-Apr-2017 16:52:51 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home5/eshoppe4/public_html/imarasoft/rilwan/project/database/seeds/DatabaseSeeder.php on line 6

@@ -1,0 +1,1 @@
+[12-Apr-2017 16:53:03 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home5/eshoppe4/public_html/imarasoft/rilwan/project/database/migrations/2016_07_21_084700_create_confs_table.php on line 6

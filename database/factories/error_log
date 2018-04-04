@@ -1,0 +1,2 @@
+[12-Apr-2017 16:53:09 America/Denver] PHP Notice:  Undefined variable: factory in /home5/eshoppe4/public_html/imarasoft/rilwan/project/database/factories/ModelFactory.php on line 14
+[12-Apr-2017 16:53:09 America/Denver] PHP Fatal error:  Call to a member function define() on null in /home5/eshoppe4/public_html/imarasoft/rilwan/project/database/factories/ModelFactory.php on line 14
